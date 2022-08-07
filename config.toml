@@ -1,5 +1,5 @@
-base_url = "https://glacier-app.github.io/docs"
-title = "Glacier API docs"
+base_url = "https://snowstry.github.io/docs"
+title = "Snowstry API docs"
 compile_sass = true
 build_search_index = true
 
@@ -8,7 +8,7 @@ highlight_code = true
 highlight_theme = "base16-ocean-dark"
 
 [extra]
-logo = "https://raw.githubusercontent.com/glacier-app/glacier/main/public/Glacier.png"
+logo = "https://raw.githubusercontent.com/glacier-app/glacier/main/public/Snowstry.png"
 #release = "https://raw.githubusercontent.com/glacier-app/glacier/main/public/favicon.ico"
 favicon = "https://raw.githubusercontent.com/glacier-app/glacier/main/public/favicon.ico"
 easydocs_logo_always_clickable = true

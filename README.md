@@ -1,3 +1,3 @@
-## Glacier API documentation
+## Snowstry API documentation
 
-Made with zola and the easydocs theme.
+Coming soon. Made with zola and the easydocs theme.
